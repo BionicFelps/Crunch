@@ -1,0 +1,16 @@
+/*
+ *	Created on: 03/15/2016
+ *	Author:	Daniel G Billings Jr
+*/
+
+#ifndef SOUNDMANAGER_H
+#define SOUNDMANAGER_H
+namespace crunch
+{
+class SoundManager
+{
+public:
+	SoundManager();
+};
+}//namespace crunch
+#endif // SOUNDMANAGER_H
